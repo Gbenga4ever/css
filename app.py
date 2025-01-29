@@ -8,13 +8,14 @@ Created on Wed Jan 29 12:46:26 2025
 
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # Title of the app
 st.title("Researcher Profile Page")
 
 # Collect basic information
-name = "Emeka Harrison Onah"
-field = "Physics"
+name = "Gbenga Abayomi Afuye"
+field = "GIScience, Remote Sensing, Environmental Degradation, Disaster Risk Management and Climate Science"
 institution = "University of Fort Hare"
 
 # Display basic profile information
@@ -53,7 +54,7 @@ if uploaded_file:
 
 # Add a contact section
 st.header("Contact Information")
-email = "201821629@ufh.ac.za"
+email = "afuyeabayomi@gmail.com"
 st.write(f"You can reach {name} at {email}.")
 
 #Add Ratings
