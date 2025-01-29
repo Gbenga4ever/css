@@ -8,7 +8,7 @@ Created on Wed Jan 29 12:46:26 2025
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 # Title of the app
 st.title("Researcher Profile Page")
