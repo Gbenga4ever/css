@@ -15,7 +15,7 @@ st.title("Researcher Profile Page")
 
 # Collect basic information
 name = "Gbenga Abayomi Afuye"
-field = "GIScience, Remote Sensing, Environmental Degradation, Disaster Risk Management and Climate Science"
+field = "GIScience, Remote Sensing, Disaster Risk Management, Environmental Sustainability and Climate Science"
 institution = "University of Fort Hare"
 
 # Display basic profile information
